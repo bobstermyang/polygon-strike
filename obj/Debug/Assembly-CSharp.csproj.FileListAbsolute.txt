@@ -1,0 +1,13 @@
+C:\Users\k4w004\Desktop\UnityYGM-master\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\k4w004\Desktop\UnityYGM-master\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\k4w004\Desktop\UnityYGM-master\Temp\bin\Debug\UnityEditor.dll
+C:\Users\k4w004\Desktop\UnityYGM-master\Temp\bin\Debug\UnityEngine.dll
+C:\Users\k4w004\Desktop\UnityYGM-master\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\k4w004\Desktop\UnityYGM-master\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\k4w004\Desktop\UnityYGM-master\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\k4w004\Desktop\UnityYGM-master\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\k4w004\Desktop\UnityYGM-master\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\k4w004\Desktop\UnityYGM-master\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\k4w004\Desktop\UnityYGM-master\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\k4w004\Desktop\UnityYGM-master\obj\Debug\Assembly-CSharp.dll
+C:\Users\k4w004\Desktop\UnityYGM-master\obj\Debug\Assembly-CSharp.pdb
