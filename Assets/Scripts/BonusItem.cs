@@ -1,17 +1,17 @@
 ﻿//-----------------------------------------
 //   BonusItem.cs
 //
-//   Jason Walters
-//   http://glitchbeam.com
-//   @jasonrwalters
+//   Bobby Yang
+//   http://dragonberri.me
+//   @dragonberryyang
 //
-//   last edited on 3/23/2015
+//   last edited on 4/25/2015
 //-----------------------------------------
 
 using UnityEngine;
 using System.Collections;
 
-public class BonusItem : MonoBehaviour 
+public class BonusItem : MonoBehaviour
 {
     public float speedDiff;
     public float bounce;

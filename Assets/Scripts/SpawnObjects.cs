@@ -1,9 +1,9 @@
 ﻿//-----------------------------------------
 //   SpawnObjects.cs
 //
-//   Jason Walters
-//   http://glitchbeam.com
-//   @jasonrwalters
+//   Bobby Yang
+//   http://dragonberri.me
+//   @dragonberryyang
 //
 //   last edited on 1/23/2015
 //-----------------------------------------

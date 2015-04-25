@@ -1,11 +1,11 @@
 ﻿//-----------------------------------------
 //   Bullet.cs
 //
-//   Jason Walters
-//   http://glitchbeam.com
-//   @jasonrwalters
+//   Bobby Yang
+//   http://dragonberri.me
+//   @dragonberryyang
 //
-//   last edited on 3/23/2015
+//   last edited on 4/25/2015
 //-----------------------------------------
 
 using UnityEngine;
